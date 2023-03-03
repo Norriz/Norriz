@@ -6,12 +6,20 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning web development, cloud native development and getting to know everything outside the world of SAP dev.
-- 📫 How to reach me:
+<h2> What's cooking </h2>
+<p>
+- 🌱 I’m currently learning web development, cloud native development and getting to know everything outside the world of SAP dev. </p>
+<p>
+- ⚡ Fun fact: I'm a sport enthusiast.
+</p>
+
+
+
+<h2>📫 How to reach me: </h2>
 <p>
 <a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
 </p>
-- ⚡ Fun fact: I'm a sport enthusiast.
+
 
 
 
