@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h2> What's cooking </h2>
+<h3> What's cooking </h3>
 <p>
 - 🌱 I’m currently learning web development, cloud native development and getting to know everything outside the world of SAP dev. </p>
 <p>
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>📫 How to reach me: </h2>
+<h3 align="left">📫 How to reach me: </h3>
 <p>
 <!--- <a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
 </p> --->
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 
+<div/>
 
 
 <h3 align="left">Languages and Tools:</h3>
